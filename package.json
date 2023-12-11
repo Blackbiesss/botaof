@@ -74,7 +74,7 @@
         "sha256": "^0.2.0",
         "simple-youtube-api": "^5.2.1",
         "song-lyrics-api": "^1.1.0",
-        "sqlite3": "^5.0.8",
+        "sqlite3": "^5.1.6",
         "srod-v2": "^1.0.2",
         "string-similarity": "^4.0.4",
         "tesseract.js": "^2.1.5",
